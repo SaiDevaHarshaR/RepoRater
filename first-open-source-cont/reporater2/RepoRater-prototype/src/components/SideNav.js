@@ -398,7 +398,7 @@ export default function SideNav({ setKeyword, children }) {
                 />
                 <input
                   id="search-field"
-                  className="block h-full max-w-xl:100rem align:center bg-white hover:bg-sky-200 transition-all duration-500 ease-in-out rounded-lg py-0 pl-8 pr-0 text-black focus:ring-0 sm:text-sm"
+                  className="block h-full max-w-xl:100rem align:center border-0 bg-white hover:bg-sky-200 transition-all duration-500 ease-in-out rounded-lg py-0 pl-8 pr-0 text-black focus:ring-0 sm:text-sm"
                   placeholder="Search..."
                   type="search"
                   name="search"
